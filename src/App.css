@@ -1,0 +1,27 @@
+.logo{
+  width: 4%;
+  margin-left: 14px;
+}
+a {
+  text-decoration: none !important;
+}
+#cancel-button{
+  width: 20%;
+}
+
+#book-button{
+  width: 20%;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+/* #logout-button{
+  align-items: end;
+  justify-content: end;
+  display: flex;
+} */
+.flex-end{
+  justify-content: flex-end;
+  
+}
+
